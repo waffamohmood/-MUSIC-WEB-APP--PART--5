@@ -1,0 +1,32 @@
+.heading{
+    font-size: 23px;
+    margin: 0%;
+    width: 100%;
+    background-color: rgb(219, 195, 249);
+}
+.heading:hover{
+    box-shadow: 5px 5px 5px rgb(199, 161, 246);
+}
+.note{
+    color: black;
+    font-size: 15px;
+}
+body{
+    background-size: cover;
+}
+.songname{
+    width: 150px;
+    font-size: 20px;
+}
+.songname:hover{
+    background-color: black;
+    color: lightblue;
+}
+#canvas{
+    background-color: white;
+    width: 420px;
+    height: 420px;
+    border-radius: 25px;
+    border: 5px solid gray;
+    box-shadow: 10px 10px 10px gray;
+}
